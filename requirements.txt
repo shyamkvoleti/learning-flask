@@ -23,9 +23,6 @@ geocoder==1.4.1
 gunicorn==19.3.0
 
 itsdangerous==0.24
-
-psycopg2==2.6.1
-
 ratelim==0.1.6
 
 equests==2.7.0
